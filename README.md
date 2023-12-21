@@ -6,6 +6,10 @@ This repository contains the Python controller for the Oxford CryoSystems 1000 S
 <img src="https://img.directindustry.com/images_di/photo-g/139459-18002288.webp" width="50%" height="auto">
 </div>
 
+<div align="center">
+<img src="https://github.com/bcsblbl/Cryostream1000_PythonController/blob/main/cryostream1000.png" width="50%" height="auto">
+</div>
+
 ## Authors
 
 - **John Taylor**, Berkeley Center for Structural Biology, Berkeley National Laboratory (jrtaylor_at_lbl.gov)
