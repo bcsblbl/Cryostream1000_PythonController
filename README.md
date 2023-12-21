@@ -4,10 +4,8 @@ This repository contains the Python controller for the Oxford CryoSystems 1000 S
 
 <div align="center">
 <img src="https://img.directindustry.com/images_di/photo-g/139459-18002288.webp" width="50%" height="auto">
-</div>
 
-<div align="center">
-<img src="https://github.com/bcsblbl/Cryostream1000_PythonController/blob/main/cryostream1000.png" width="50%" height="auto">
+<img src="https://github.com/bcsblbl/Cryostream1000_PythonController/blob/main/cryostream1000.png?raw=true" width="50%" height="auto">
 </div>
 
 ## Authors
